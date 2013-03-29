@@ -12,7 +12,7 @@ let s:source = {
 
 function! s:source.initialize() "{{{
   " Append UltiSnips to python path
-  exec g:_uspy "sys.path.append(vim.eval('g:UltiSnipsPythonPath'))"
+  "exec "py sys.path.append(vim.eval('g:UltiSnipsPythonPath'))"
 
   " Map completion function
   exec "inoremap <silent> " . g:UltiSnipsExpandTrigger . " <C-R>=g:UltiSnips_Complete()<cr>"
