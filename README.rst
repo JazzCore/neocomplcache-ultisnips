@@ -1,7 +1,7 @@
 NeoComplCache-UltiSnips
 =======================
 
-This is a NeoComplCache extension that provides UltiSnips integration. It adds UltiSnips snippets to NeoComplCache completion and properly sets mappings for correct snippet expanding and jumping.
+This is a NeoComplCache/Neocomplete extension that provides UltiSnips integration. It adds UltiSnips snippets to NeoComplCache/Neocomplete completion and properly sets mappings for correct snippet expanding and jumping.
 
 Installation
 ------------
