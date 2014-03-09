@@ -1,6 +1,8 @@
 NeoComplCache-UltiSnips
 =======================
 
+**Warning: UltiSnips now supports neocomplete snippets completion by default. This should be used only if you're using neocomplcache.**
+
 This is a NeoComplCache extension that provides UltiSnips integration. It adds UltiSnips snippets to NeoComplCache completion and properly sets mappings for correct snippet expanding and jumping.
 
 Installation
